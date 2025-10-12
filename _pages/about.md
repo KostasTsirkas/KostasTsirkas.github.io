@@ -2,7 +2,7 @@
 layout: about
 title: Main
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:  Address: Yale University, S&DS, Kline Tower, 219 Prospect Street New Haven, CT 06511.
 
 profile:
   align: left
@@ -25,10 +25,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in the Department of Statistics & Data Science at Yale University, where I work with **Prof. Ilias Zadik**.  
+I am a Ph.D. student in the Department of Statistics & Data Science at Yale University, where I work with **Prof. Ilias Zadik**. 
+
 Before coming to Yale, I completed my undergraduate studies in **Mathematics** at the **University of Athens**.
 
 Currently, my interests lie broadly in theoretical statistics, high-dimensional probability, and the computational complexity of statistical inference.
+
+You can reach me at: kostas (dot) tsirkas (at) yale (dot) edu
+
+{% include selected_papers.liquid %}
+
 
 
 
