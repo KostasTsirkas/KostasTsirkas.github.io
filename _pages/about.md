@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year Ph.D. student in the Department of Statistics & Data Science at Yale University, where I am advised by **Prof. Ilias Zadik**.  
-Before coming to Yale, I completed my undergraduate studies in **Mathematics** at the **National and Kapodistrian University of Athens**.
+I am a Ph.D. student in the Department of Statistics & Data Science at Yale University, where I work with **Prof. Ilias Zadik**.  
+Before coming to Yale, I completed my undergraduate studies in **Mathematics** at the **University of Athens**.
 
-My research interests include theoretical statistics, high-dimensional probability, and the computational complexity of statistical inference.
+Currently I am interested in theoretical statistics, high-dimensional probability, and the computational complexity of statistical inference.
 
 
