@@ -2,7 +2,7 @@
 layout: about
 title: Main
 permalink: /
-subtitle:  Address: Yale University, S&DS, Kline Tower, 219 Prospect Street New Haven, CT 06511.
+
 
 profile:
   align: left
