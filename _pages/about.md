@@ -34,13 +34,13 @@ Currently, my interests lie broadly in theoretical statistics, high-dimensional 
 You can reach me at: kostas (dot) tsirkas (at) yale (dot) edu.
 
 
-
-
-
-
+<!-- spacer -->
+<div style="height: 2.5rem;"></div>
 
 
 {% include selected_papers.liquid %}
+
+
 
 
 
