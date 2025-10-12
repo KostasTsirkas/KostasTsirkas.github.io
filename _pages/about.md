@@ -30,5 +30,5 @@ Before coming to Yale, I completed my undergraduate studies in **Mathematics** a
 
 Currently, my interests lie broadly in theoretical statistics, high-dimensional probability, and the computational complexity of statistical inference.
 
-{% include selected_papers.html %} 
+
 
