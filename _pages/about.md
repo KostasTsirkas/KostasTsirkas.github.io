@@ -28,6 +28,7 @@ latest_posts:
 I am a Ph.D. student in the Department of Statistics & Data Science at Yale University, where I work with **Prof. Ilias Zadik**.  
 Before coming to Yale, I completed my undergraduate studies in **Mathematics** at the **University of Athens**.
 
-Currently I am interested in theoretical statistics, high-dimensional probability, and the computational complexity of statistical inference.
+Currently, my interests lie broadly in theoretical statistics, high-dimensional probability, and the computational complexity of statistical inference.
 
+{% include selected_papers.html %} 
 
