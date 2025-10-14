@@ -34,6 +34,7 @@ Before coming to Yale, I completed my undergraduate studies in **Mathematics** a
 I’m interested in a wide range of high-dimensional problems in statistics and applied probability. Right now, I’m thinking about questions around the computational complexity of statistical inference.
 
 Contact: kostas (dot) tsirkas (at) yale (dot) edu.
+
 Full name: Konstantinos Tsirkas
 
 
