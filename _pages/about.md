@@ -27,15 +27,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in the Department of Statistics & Data Science at Yale University, where I work with **Prof. Ilias Zadik**. 
+I am a Ph.D. student in the Department of Statistics & Data Science at Yale University, where I work with **[Prof. Ilias Zadik](https://iliaszadik.github.io/)**. 
 
-Before coming to Yale, I completed my undergraduate studies in **Mathematics** at the **University of Athens**.
+Before coming to Yale, I completed my undergraduate studies in **Mathematics** at the **[University of Athens](https://en.math.uoa.gr)**.
 
-Currently, my interests lie broadly in theoretical statistics, high-dimensional probability, and the computational complexity of statistical inference.
+I’m interested in a wide range of high-dimensional problems in statistics and applied probability. Right now, I’m thinking about questions around the computational complexity of statistical inference.
 
-You can reach me at: kostas (dot) tsirkas (at) yale (dot) edu.
-
-My full name is: Konstantinos Tsirkas
+Contact: kostas (dot) tsirkas (at) yale (dot) edu.
+Full name: Konstantinos Tsirkas
 
 
 <!-- spacer -->
